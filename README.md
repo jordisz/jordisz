@@ -1,5 +1,7 @@
 🌱 I’m currently learning Javascript and NodeJS
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jordisz/my-stack)
+
 <!--
 **jordisz/jordisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
