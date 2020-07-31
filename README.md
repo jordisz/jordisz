@@ -1,4 +1,4 @@
-##Jordi Sánchez
+#Jordi Sánchez
 
 🌱 I’m currently learning Javascript and NodeJS
 
