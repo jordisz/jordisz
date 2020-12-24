@@ -1,6 +1,6 @@
 ## Hola! 👋 
 
-I'm Jordi Sánchez
+I'm Jordi, from Barcelona (Catalonia). Currently learning about web design & development.
 
 <ul>
   <li> :computer: HTML/CSS/JS </li>
