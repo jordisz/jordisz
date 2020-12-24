@@ -4,10 +4,10 @@ I'm Jordi Sánchez
 
 <ul>
   <li> :computer: HTML/CSS/JS </li>
-  <li> :busts_in_silhouette: MongoDB/Express/Node.js </li>
+  <li> :busts_in_silhouette: MongoDB/Express/Node.js && PHP/MySQL</li>
   <li> :bar_chart: R/ggplot2/D3.js </li>
   <li> :camera: GIMP/RawTherapee </li>
-  <li> :headphones: Musescore/REAPER </li>
+  <li> :headphones: Music editing (:heart: Musescore)/recording/mixing (:heart: REAPER) </li>
 <ul>
 
 
