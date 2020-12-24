@@ -7,7 +7,7 @@ I'm Jordi Sánchez
   <li> :busts_in_silhouette: MongoDB/Express/Node.js && PHP/MySQL</li>
   <li> :bar_chart: R/ggplot2/D3.js </li>
   <li> :camera: GIMP/RawTherapee </li>
-  <li> :headphones: Music editing (:heart: Musescore)/recording/mixing (:heart: REAPER) </li>
+  <li> :headphones: Music editing (:heart: Musescore)/recording/mixing (any DAW, but I :heart: REAPER) </li>
 <ul>
 
 
