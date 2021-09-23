@@ -2,6 +2,7 @@
 
 I'm Jordi, from Barcelona (Catalonia). Currently learning about web design & development.
 
+<!--
 <ul>
   <li> :computer: HTML/CSS/JS </li>
   <li> :busts_in_silhouette: MongoDB/Express/Node.js && PHP/MySQL</li>
@@ -9,7 +10,7 @@ I'm Jordi, from Barcelona (Catalonia). Currently learning about web design & dev
   <li> :camera: GIMP/RawTherapee </li>
   <li> :headphones: Music editing (:heart: Musescore)/recording/mixing (any DAW, but I :heart: REAPER) </li>
 <ul>
-
+-->
 
 
 
