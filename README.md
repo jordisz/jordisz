@@ -2,7 +2,7 @@
 
 I'm Jordi, from Barcelona (Catalonia). Currently learning about web design & development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordisz&langs_count=8&theme=github_dark&layout=compact&count_private=true&exclude_repo=jordisz.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordisz&langs_count=8&theme=github_dark&layout=compact&count_private=true&exclude_repo=jordisz.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
